@@ -1,0 +1,8 @@
+Brackets ()
+Order
+Division
+Multiplication
+Addition
+Subtraction
+
+2 * (5 - 1)
